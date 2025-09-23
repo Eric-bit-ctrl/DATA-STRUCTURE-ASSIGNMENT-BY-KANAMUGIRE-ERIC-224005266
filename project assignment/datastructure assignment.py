@@ -1,5 +1,4 @@
-# Student Marks Tracker Assignment
-# Student-style solution with comments
+# Student Marks Tracker Assignmen
 
 # --- Integers ---
 # Example student marks in a semester
@@ -71,3 +70,4 @@ total_value = sum(record["value"] for record in student_records)
 
 print("\nStudent Records:", student_records)
 print("Total Value of Records:", total_value)
+
